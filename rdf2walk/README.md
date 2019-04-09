@@ -20,3 +20,10 @@ how many nodes to walk, etc.
 
 # RDFLoader
 Loads in the specified ontology file and creates a Jena dataset to be worked with.
+
+# RandomWalker
+An implementation of GraphWalker; walks by picking random directions.
+
+# Walk
+Representation of a single walk, literally one line of text, where each traversal 'hop' is the node, and each node 'hop'
+is indicated by a '->'.
