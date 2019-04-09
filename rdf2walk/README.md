@@ -13,3 +13,6 @@ A wrapper for Jena's Node class.
 # MainEntry
 Where the user specifies the path for the ontology file, how many walks to perform, the depth of the walk for each node,
 how many nodes to walk, etc. 
+
+# RDFLoader
+Loads in the specified ontology file and creates a Jena dataset to be worked with.
