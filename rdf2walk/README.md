@@ -27,3 +27,6 @@ An implementation of GraphWalker; walks by picking random directions.
 # Walk
 Representation of a single walk, literally one line of text, where each traversal 'hop' is the node, and each node 'hop'
 is indicated by a '->'.
+
+# WalkExporter
+Exports all walk objects into a single text file for further processing. The final step of the RDF2Walk process.
