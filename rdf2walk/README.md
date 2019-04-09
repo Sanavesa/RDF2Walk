@@ -1,5 +1,5 @@
 # Overview
-Mostly home-grown code, but uses the Apache Jena library for RDF-related work.
+Mostly home-grown code, but uses the Apache Jena library for RDF-related work and builds atop this with understandable abstractions meant to be extended.
 
 ### GraphConnection
 An abstraction for a node's connection to others. Includes the RDF concept of subject, predicate and object.
